@@ -1,5 +1,7 @@
 # 🚀 Smart ATS – AI Resume Analyzer  
 
+🔗 **Live Demo:** [ATS ScorePro](https://ats-scorepro.streamlit.app/)  
+
 Smart ATS evaluates resumes against job descriptions using **Google Gemini AI**, providing a **match percentage, missing keywords, and a profile summary** to optimize resumes.  
 
 ## 🔹 Features  
